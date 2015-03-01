@@ -6,46 +6,30 @@ http://4.31.30.145:9145
 http://cdn-02.sdn.si/dorcel/dorcel.isml/dorcel-video=1500000-audio101=128000.m3u8 
 
 #EXTINF:-1 , Channel AKA rrr.sz.xlcdn®
-http://rrr.sz.xlcdn.com/?
-
-account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
  
 #EXTINF:-1 , Now Music rrr.sz.xlcdn®
-http://rrr.sz.xlcdn.com/?
-
-account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
  
 #EXTINF:-1 , Planet Pop rrr.sz.xlcdn®
-http://rrr.sz.xlcdn.com/?
-
-account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 
 #EXTINF:-1,ASTRO PRIMA rrr.sz.xlcdn®
-http://rrr.sz.xlcdn.com/?
-
-account=IMN&file=prima&type=live&service=wowza&protocol=http&output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=IMN&file=prima&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 #EXTINF:-1,ASTRO WARNA rrr.sz.xlcdn®
-http://rrr.sz.xlcdn.com/?
-
-account=IMN&file=warna&type=live&service=wowza&protocol=http&output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=IMN&file=warna&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 #EXTINF:-1,movieshd
 http://st121.u1.videomega.tv/v/17e04c6909cd433599fe1ec7e3004fd9.mp4
 
 #EXTINF:-1,BT SPORT 1 NASSAT®
-rtmp://$OPT:rtmp-raw=rtmp://46.246.124.6:443/liverepeater playpath=20826 
-
-swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 
-
-pageUrl=http://movietrailers.yt/player2.php
+rtmp://$OPT:rtmp-raw=rtmp://46.246.124.6:443/liverepeater playpath=20826swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1pageUrl=http://movietrailers.yt/player2.php
 
 #EXTINF:-1,BT SPORT 2 NASSAT®
 rtmp://$OPT:rtmp-raw=rtmp://46.246.124.6:443/liverepeater playpath=13831 
-
 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 
-
 pageUrl=http://movietrailers.yt/player2.php
 
 #EXTINF:-1,ASTRO AWANI
